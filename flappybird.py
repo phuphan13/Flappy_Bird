@@ -1,6 +1,8 @@
 import pygame 
 import sys
 
+#adding more comments
+
 from pygame.constants import SWSURFACE #sys is system module to end the program
 x_mode = 420
 y_mode = 600
